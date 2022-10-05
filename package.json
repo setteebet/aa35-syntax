@@ -1,18 +1,18 @@
 {
   "name": "aa35-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "maheng88✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"maheng88",
-"แทงหวยลาวออนไลน์",
-"lottovip download",
-"รวมเว็บแทงหวย",
-"หวยhuaysod"
-],
+  "version": "0.2.0",
+  "description": "maheng88✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "maheng88",
+    "แทงหวยลาวออนไลน์",
+    "lottovip download",
+    "รวมเว็บแทงหวย",
+    "หวยhuaysod"
+  ],
   "repository": "https://github.com/setteebet/aa35-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
